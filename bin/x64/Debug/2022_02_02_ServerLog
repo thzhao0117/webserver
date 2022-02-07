@@ -1,0 +1,60 @@
+2022-02-02 10:48:07.882273 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:48:07.882445 [info]: adjust timer once
+2022-02-02 10:48:07.882653 [info]: close fd 8
+2022-02-02 10:48:08.903556 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:48:08.903656 [info]: adjust timer once
+2022-02-02 10:48:08.904555 [info]: close fd 8
+2022-02-02 10:48:08.904847 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:48:08.904935 [info]: adjust timer once
+2022-02-02 10:48:08.905616 [info]: close fd 9
+2022-02-02 10:48:08.906043 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:48:08.906125 [info]: adjust timer once
+2022-02-02 10:48:08.906687 [info]: close fd 8
+2022-02-02 10:48:13.931640 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:48:13.931725 [info]: adjust timer once
+2022-02-02 10:48:13.932421 [info]: close fd 8
+2022-02-02 10:48:28.231441 [info]: close fd 9
+2022-02-02 10:48:43.948744 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:48:43.948886 [info]: adjust timer once
+2022-02-02 10:48:43.949217 [info]: close fd 8
+2022-02-02 10:48:58.233859 [info]: close fd 9
+2022-02-02 10:49:43.969759 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:49:43.969883 [info]: adjust timer once
+2022-02-02 10:49:43.970529 [info]: close fd 8
+2022-02-02 10:49:58.239351 [info]: close fd 8
+2022-02-02 10:51:11.380552 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:51:11.380654 [info]: adjust timer once
+2022-02-02 10:51:11.381427 [info]: close fd 8
+2022-02-02 10:51:28.245882 [info]: close fd 8
+2022-02-02 10:51:28.245998 [info]: close fd 9
+2022-02-02 10:51:55.738522 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:51:55.738679 [info]: adjust timer once
+2022-02-02 10:51:55.739293 [info]: close fd 8
+2022-02-02 10:52:13.249502 [info]: close fd 8
+2022-02-02 10:52:13.249567 [info]: close fd 9
+2022-02-02 10:52:26.105699 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:52:26.105804 [info]: adjust timer once
+2022-02-02 10:52:26.106221 [info]: close fd 8
+2022-02-02 10:52:29.347486 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:52:29.347550 [info]: adjust timer once
+2022-02-02 10:52:29.347934 [info]: close fd 8
+2022-02-02 10:52:29.348294 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:52:29.348365 [info]: adjust timer once
+2022-02-02 10:52:29.348964 [info]: close fd 8
+2022-02-02 10:52:30.578902 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:52:30.578984 [info]: adjust timer once
+2022-02-02 10:52:30.579356 [info]: close fd 8
+2022-02-02 10:52:48.252586 [info]: close fd 8
+2022-02-02 10:53:47.256701 [info]: deal with the client(127.0.0.1)
+2022-02-02 10:53:47.256833 [info]: adjust timer once
+2022-02-02 10:53:47.257109 [info]: close fd 8
+2022-02-02 10:54:03.579668 [info]: close fd 8
+2022-02-02 12:13:14.871007 [info]: deal with the client(127.0.0.1)
+2022-02-02 12:13:14.871206 [info]: adjust timer once
+2022-02-02 12:13:14.872205 [info]: close fd 8
+2022-02-02 12:13:14.925947 [info]: deal with the client(127.0.0.1)
+2022-02-02 12:13:14.926016 [info]: adjust timer once
+2022-02-02 12:13:14.926548 [info]: close fd 9
+2022-02-02 12:13:14.927726 [info]: deal with the client(127.0.0.1)
+2022-02-02 12:13:14.927809 [info]: adjust timer once
+2022-02-02 12:13:14.928070 [info]: close fd 8
